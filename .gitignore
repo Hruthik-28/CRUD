@@ -7,4 +7,4 @@ node_modules/
 # Ignore package-lock.json file (for NPM)
 package-lock.json
 
-structure.excalidraw/
+
